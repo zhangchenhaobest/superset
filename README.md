@@ -1,3 +1,29 @@
+# superset
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Apache Superset is a Data Visualization and Data Exploration Platform
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+Apache Superset：数据可视化与探索平台。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <!--
 Licensed to the Apache Software Foundation (ASF) under one
 or more contributor license agreements.  See the NOTICE file
